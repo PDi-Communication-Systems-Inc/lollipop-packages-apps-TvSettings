@@ -43,7 +43,7 @@ import java.util.List;
 public class SettingsDialog extends Activity {
 
     private static final String TAG = "SettingsDialog";
-    private static final boolean DEBUG = true;
+    private static final boolean DEBUG = false;
 
     static final String EXTRA_START_POS = "com.android.tv.quicksettings.START_POS";
     static final String EXTRA_SETTINGS = "com.android.tv.quicksettings.SETTINGS";

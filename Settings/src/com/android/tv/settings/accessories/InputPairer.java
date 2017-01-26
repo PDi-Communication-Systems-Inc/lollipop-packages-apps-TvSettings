@@ -126,7 +126,7 @@ public class InputPairer {
     private static final int MSG_PAIR = 1;
     private static final int MSG_START = 2;
 
-    private static final boolean DEBUG = true;
+    private static final boolean DEBUG = false;
 
     private static final String[] INVALID_INPUT_KEYBOARD_DEVICE_NAMES = {
         "gpio-keypad", "cec_keyboard", "Virtual", "athome_remote"

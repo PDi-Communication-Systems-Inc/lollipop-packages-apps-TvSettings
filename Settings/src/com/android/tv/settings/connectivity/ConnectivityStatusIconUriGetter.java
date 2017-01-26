@@ -34,7 +34,7 @@ import android.util.Log;
 public class ConnectivityStatusIconUriGetter implements MenuItem.UriGetter {
 
     private static final String TAG = "ConnectivityStatusIconUriGetter";
-    private static final boolean DEBUG = true;
+    private static final boolean DEBUG = false;
 
     private final Context mContext;
     private final int mEthernetDrawableResourceId;
